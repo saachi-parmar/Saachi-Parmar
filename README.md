@@ -27,7 +27,7 @@ This repo offers a snapshot of my background, interests, and key projects in rob
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 - To be Added...
 
