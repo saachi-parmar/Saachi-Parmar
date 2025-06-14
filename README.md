@@ -1,7 +1,7 @@
 ## Hi there, I'm Saachi Parmar 👋
 
 Welcome to my GitHub introduction repository!  
-This repo offers a snapshot of my background, interests, and key projects in robotics.
+This repo offers a snapshot of my background, interests, and projects in robotics.
 
 ---
 
