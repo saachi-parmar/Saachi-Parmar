@@ -29,7 +29,7 @@ This repo offers a snapshot of my background, interests, and projects in robotic
 
 ## 🚀 Projects
 
-- To be Added...
+- My repositeries
 
 ---
 
