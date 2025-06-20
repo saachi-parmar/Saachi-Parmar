@@ -90,8 +90,9 @@
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn – saachi-parmar](https://www.linkedin.com/in/saachi-parmar/)
-- 🌐 [GitHub – saachiparmar](https://github.com/saachi-parmar)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20"/> [Saachi Parmar](https://www.linkedin.com/in/saachi-parmar/)
+- [![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saachi-parmar) [saachi-parmar](https://github.com/saachi-parmar)
+
 
 ---
 
