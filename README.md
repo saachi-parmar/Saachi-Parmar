@@ -52,6 +52,7 @@
 **Domains**  
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FFD700?style=flat)
 ![Prototyping](https://img.shields.io/badge/Prototyping-blueviolet?style=flat)
+![Web Development](https://img.shields.io/badge/Web%20Development-ff69b4?style=flat)
 
 ---
 
