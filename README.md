@@ -19,7 +19,7 @@
 
 - 🎓 Third-year B.Tech student in **Robotics & Automation Engineering** at **Symbiosis Institute of Technology, Pune**
 - ✈️ Pursuing **Honors in Aerial Robotics and Drones**
-- 🏆 Finalist @ **Robofest 4.0** – Demonstrated autonomous underwater submarine
+- 🏆 Grand Finalist @ **Robofest 4.0** – Our team reached the final stage with an autonomous submarine.
 - 🌌 **Social Media Head** @ *Antariksh – Space and Astronomy Club*
 - 🌍 Member of **Internationalization Cell** – promoting global outreach
 - 💡 Passionate about autonomous systems, drone design & computer vision
