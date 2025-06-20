@@ -58,9 +58,6 @@
 
 ## 🚀 Featured Projects
 
-- 🔬 **Exam Eyes – Automated Proctoring System**  
-  AI-based system to detect cheating behaviors during online exams.
-
 - 🌐 **English to French Translator**  
   Simple NLP-based translation interface using Python.
 
@@ -72,6 +69,9 @@
 
 - 🎨 **[UI/UX Portfolio Website](https://saachi-parmar.github.io/UIUX-Project/)**  
   Static frontend site to showcase visual design skills using HTML, CSS, and Canva/Figma planning.
+  
+- 🔬 **Exam Eyes – Automated Proctoring System**  
+  AI-based system to detect cheating behaviors during online exams.
 
 - 📁 **[Explore more projects in my repositories](https://github.com/saachi-parmar?tab=repositories)**  
   Find robotics builds, microcontroller experiments, design prototypes, and more.
